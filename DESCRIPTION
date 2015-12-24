@@ -1,0 +1,13 @@
+Package: FIs
+Title: Human Functional Interactions (FIs) for splineTCDiffExpr package
+Version: 0.99.1
+Date: 2015-12-03
+Author: Agata Michna
+Maintainer: Herbert Braselmann <braselm@helmholtz-muenchen.de>
+Depends: R (>= 3.3)
+Description: Data set containing two complete lists of identified
+        functional interaction partners in Human. Data are derived from
+        Reactome and BioGRID databases.
+License: GPL-3
+biocViews: PathwayInteractionDatabase, Homo_sapiens_Data
+NeedsCompilation: no
