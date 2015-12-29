@@ -1,1 +1,1 @@
-FIs/data
+data
