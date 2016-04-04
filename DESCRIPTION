@@ -1,6 +1,6 @@
 Package: FIs
-Title: Human Functional Interactions (FIs) for splineTCDiffExpr package
-Version: 0.99.1
+Title: Human Functional Interactions (FIs) for splineTimeR package
+Version: 0.99.2
 Date: 2015-12-03
 Author: Agata Michna
 Maintainer: Herbert Braselmann <braselm@helmholtz-muenchen.de>
