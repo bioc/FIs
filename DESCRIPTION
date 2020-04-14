@@ -1,9 +1,9 @@
 Package: FIs
 Title: Human Functional Interactions (FIs) for splineTimeR package
-Version: 1.15.0
-Date: 2015-12-03
+Version: 1.15.1
+Date: 2020-04-14
 Author: Agata Michna
-Maintainer: Herbert Braselmann <braselm@helmholtz-muenchen.de>
+Maintainer: Herbert Braselmann <hbraselmann@online.de>, Martin Selmansberger <martin.selmansberger@helmholtz-muenchen.de>
 Depends: R (>= 3.3)
 Description: Data set containing two complete lists of identified
         functional interaction partners in Human. Data are derived from
